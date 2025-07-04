@@ -13,7 +13,6 @@ InsightClassroom is a robust, ML-powered **Student Feedback & Dashboard System**
 ✅ ML-based Sentiment Analysis (Positive, Neutral, Negative)  
 ✅ Feedback linked to specific departments and teachers  
 ✅ Simple, maintainable Flask backend  
-✅ SQLite database integration  
 ✅ Easy to customize for any educational institution  
 
 ---
@@ -25,7 +24,6 @@ InsightClassroom is a robust, ML-powered **Student Feedback & Dashboard System**
 - Scikit-learn (ML model)
 - Pandas
 - TextBlob (optional / for initial testing)
-- SQLite (lightweight database)
 - HTML, CSS (frontend)
 
 ---
@@ -37,7 +35,7 @@ InsightClassroom is a robust, ML-powered **Student Feedback & Dashboard System**
 3. The feedback is processed by a trained **Machine Learning sentiment classifier**, categorizing it as Positive, Neutral, or Negative.
 4. The system saves the feedback along with its sentiment to the database for analysis.
 
----
 
-## 📦 Project Structure
+
+
 
